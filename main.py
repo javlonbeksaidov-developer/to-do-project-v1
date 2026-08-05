@@ -9,15 +9,15 @@ def main():
         if choise == "0":
             break
         elif choise == "1":
-            print(create())
+            create()
         elif choise == "2":
-            print(read())
+            read()
         elif choise == "3":
-            print(update())
+            update()
         elif choise == "4":
-            print(delete())
+            delete()
         elif choise == "5":
-            print(check())
+            check()
 
 if __name__ == "__main__":
     main()
