@@ -1,12 +1,12 @@
-# 📝 To-Do Project v1
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=To-Do%20Project%20v1&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-> A simple and lightweight CLI To-Do application built with **Python and SQLite3**.
+<a href="https://github.com/javlonbeksaidov-developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+SQLite3+Database;Create+%E2%80%A2+Read+%E2%80%A2+Update+%E2%80%A2+Delete" alt="Typing SVG" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Application-222222?style=for-the-badge)
-
----
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CLI-Terminal-111827?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 ## 📌 About
 
@@ -15,6 +15,7 @@
 Loyiha **Python**, **SQLite3** va **CRUD operations** yordamida ishlab chiqilgan.
 
 **Start Project:** `04.08.2026`
+
 **Status:** ✅ Completed
 
 ---
@@ -49,23 +50,6 @@ to-do-project-v1/
 └── README.md
 ```
 
-### Architecture
-
-```text
-CLI -> Menu -> Database -> SQLite3
-```
-
----
-
-## 🛠️ Built With
-
-| Technology | Purpose              |
-| ---------- | -------------------- |
-| Python     | Programming Language |
-| SQLite3    | Database             |
-| CLI        | User Interface       |
-| CRUD       | Data Management      |
-
 ---
 
 ## 🚀 Installation
@@ -80,15 +64,37 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+<div align="center">
 
-**Javlonbek Saidov**
-Python Backend Developer
+# 👨‍💻 Author
 
-⭐ If you like this project, consider giving it a star.
+<table align="center">
+<tr>
+<td align="center" width="220">
 
----
+<img src="https://github.com/javlonbeksaidov-developer.png" width="150" height="150" style="border-radius:50%;" />
 
-<p align="center">
-  Made with ❤️ and Python
-</p>
+</td>
+
+<td align="center">
+
+<h3>SOFTWARE ENGINEER</h3>
+
+<h3>Connect with me</h3>
+
+<p align="center"><a href="https://t.me/saidov_1701"><img src="https://img.icons8.com/fluency/64/telegram-app.png" width="45" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/#"><img src="https://img.icons8.com/fluency/64/instagram-new.png" width="45" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/javlonbeksaidov.developer"><img src="https://img.icons8.com/fluency/64/facebook-new.png" width="45" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;<a href="https://youtube.com/@JavlonbekSaidov-Developer"><img src="https://img.icons8.com/fluency/64/youtube-play.png" width="45" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:javlonbeksaidov09@gmail.com"><img src="https://img.icons8.com/fluency/64/gmail-new.png" width="45" alt="Gmail"/></a></p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Javlonbek+Saidov+Alijon+o%27g%27li;Python+Backend+Developer" alt="Typing SVG" />
+
+<br><br>
+
+<strong>⭐ If you like this project, don't forget to give it a star!</strong>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+
