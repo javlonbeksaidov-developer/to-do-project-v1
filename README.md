@@ -1,12 +1,20 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=To-Do%20Project%20v1&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <a href="https://github.com/javlonbeksaidov-developer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+SQLite3+Database;Create+%E2%80%A2+Read+%E2%80%A2+Update+%E2%80%A2+Delete" alt="Typing SVG" />
 </a>
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/CLI-Terminal-111827?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+</p>
+
+</div>
 
 ## 📌 About
 
